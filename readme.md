@@ -1,7 +1,7 @@
 # Android Application Form
-* Here the County name and state name gets displayed using spinner and state name depends on county selected
-* * fields are mandatory fields
-* Validated the Email ID using Regular Expression
+- Here the County name and state name gets displayed using spinner and state name depends on county selected
+- * fields are mandatory fields
+- Validated the Email ID using Regular Expression
  
 ## Application form Screen
 ![image](https://user-images.githubusercontent.com/86145099/226681902-36547862-e535-45b8-b9da-91ace2dc083f.png)
