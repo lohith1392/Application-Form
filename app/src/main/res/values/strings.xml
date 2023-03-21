@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">SignUpApplication</string>
+    <string-array name="countries">
+        <item>USA</item>
+        <item>Canada</item>
+        <item>Mexico</item>
+    </string-array>
+
+    <string-array name="usa_cities">
+        <item>New York</item>
+        <item>Los Angeles</item>
+        <item>Chicago</item>
+    </string-array>
+
+    <string-array name="canada_cities">
+        <item>Toronto</item>
+        <item>Montreal</item>
+        <item>Vancouver</item>
+    </string-array>
+
+    <string-array name="mexico_cities">
+        <item>Mexico City</item>
+        <item>Cancun</item>
+        <item>Tijuana</item>
+    </string-array>
+    <string name="address">Address <b></b></string>
+    <string-array name="empty_list">
+        <item></item>
+    </string-array>
+    <string name="Name">Name<font color='#FF0000'>*</font></string>
+    <string name="Address" color="#090000">Address<font color='#FF0000'>*</font></string>
+    <string name="Email">Email<font color='#FF0000'>*</font></string>
+</resources>
